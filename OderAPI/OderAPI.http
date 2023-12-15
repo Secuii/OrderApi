@@ -1,0 +1,6 @@
+@OderAPI_HostAddress = http://localhost:5007
+
+GET {{OderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
